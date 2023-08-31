@@ -1,3 +1,4 @@
+<h1>  Deploy: https://64efe61346381b0d7f2cb082--elcineclub.netlify.app/ </h1>
 <h3> Projeto El Cine Club </h3>
 <span> site de filmes e séries, utilizando a API do The Movie Data Base como base </span>
 </br>
